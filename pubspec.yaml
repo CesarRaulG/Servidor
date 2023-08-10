@@ -1,0 +1,7 @@
+name: websocket_server
+
+environment:
+  sdk: '>=3.0.6 <4.0.0' # Adjust the version as needed
+
+dependencies:
+  web_socket_channel: ^2.1.0
